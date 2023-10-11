@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    padding: 0px;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+body{
+    max-width: 1980px;
+    background-color: rgba(17, 15, 15, 0.952);
+}
